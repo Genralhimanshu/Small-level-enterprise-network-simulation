@@ -47,3 +47,8 @@ This project demonstrates the implementation of a multi-router enterprise networ
 * Packet Tracer topology (.pkt)
 * Configuration screenshots
 * Routing and ACL verification outputs
+
+
+
+<img width="1818" height="818" alt="image" src="https://github.com/user-attachments/assets/917920ea-a222-4fbd-af67-9642840cb985" />
+
